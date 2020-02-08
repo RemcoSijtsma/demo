@@ -2,4 +2,6 @@
 
 this is a simple readme file
 
-This is bound to cause trouble
+## Heading 2
+
+modifying readme
